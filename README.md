@@ -1,5 +1,5 @@
 **<p align=center>👷My Name Is Ifnu Umar<p/>**<hr>
-**<p align=center>⚙️My Tools-Languages-Framework⛏️</p>**
+**<p align=center>⚙️My Languages-Frameworks-Tools⛏️</p>**
 <br>
 <div align="center">
   <a href="https://skillicons.dev">

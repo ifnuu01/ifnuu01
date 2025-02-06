@@ -1,1 +1,1 @@
-**<p align=center>👷My Name's Ifnu Umar<p/>**<hr>
+**<p align=center>👷My Name's Ifnu Umar<p/>**
